@@ -1,2 +1,2 @@
 # trial
-https://github.com/aruncpacp123/trial
+https://github.com/aruncpacp123/trial/
